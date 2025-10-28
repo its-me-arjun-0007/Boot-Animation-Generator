@@ -54,8 +54,7 @@ This script is designed for a Debian-based Linux environment (like Kali Linux, U
 1.  **Install Dependencies:**
     Open your terminal and install `ffmpeg` and `zip`:
     ```bash
-    sudo apt update
-    sudo apt install ffmpeg zip
+    sudo apt update && sudo apt install ffmpeg && sudo apt install zip
     ```
 
 2.  **Get the Script:**
