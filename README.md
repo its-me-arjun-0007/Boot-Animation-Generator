@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="1002971044.jpg" alt="Tool Banner" width="50%"/>
+  <img src="1002971040.png" alt="Tool Banner" width="100%"/>
 </p>
 
 ## Summary
